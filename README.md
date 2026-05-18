@@ -7,7 +7,7 @@ Solução desktop com OCR para análise automatizada de contratos, detecção de
 ## Download
 
 Baixe a versão mais recente aqui:
-[Release v1.0.0](https://github.com/Denis-Leal/contract-compliance-analyzer/releases/download/v1.0.0/SEU_ARQUIVO.zip)
+[Release v1.0.0](https://github.com/Denis-Leal/contract-compliance-analyzer/releases/tag/v1.0.0/ContractAnalyzer.zip)
 
 ---
 
