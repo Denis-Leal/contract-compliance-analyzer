@@ -4,6 +4,13 @@ Solução desktop com OCR para análise automatizada de contratos, detecção de
 
 ---
 
+## Download
+
+Baixe a versão mais recente aqui:
+[Release v1.0.0](https://github.com/Denis-Leal/contract-compliance-analyzer/releases/download/v1.0.0/SEU_ARQUIVO.zip)
+
+---
+
 ## Visão Geral
 
 O Contract Compliance Analyzer é uma aplicação desktop desenvolvida para automatizar processos de análise contratual em larga escala.
